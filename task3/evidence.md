@@ -25,8 +25,6 @@ To prove that the duty cycle is changing correctly, the output on **PD3** was ca
 ### 1. Duty Cycle: 10%
 
 Observation:  
-The HIGH pulse is narrow (approx. **200 µs**), and the LOW period is long.
-
 <center>
   <img src="../pics/duty10.png" alt="Firmware Stack" width="900">
 </center>
